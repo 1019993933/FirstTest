@@ -13,3 +13,5 @@ this line is added on client and branch Dev.
 added by master for feature1;
 
 add feature1;
+
+feature2: added by other gay.
