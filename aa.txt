@@ -11,3 +11,5 @@ this line is added on server.
 this line is added on client and branch Dev.
 
 added by master for feature1;
+
+add feature1;
