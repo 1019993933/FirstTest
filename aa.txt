@@ -3,3 +3,7 @@ Hello Git.
 new Line;
 
 Another Line
+
+this line is added on client.
+
+this line is added on server.
