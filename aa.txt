@@ -6,7 +6,8 @@ Another Line
 
 this line is added on client.
 
-this line is added on server.
+this line is added on server. 
+fix bug1;
 
 this line is added on client and branch Dev.
 
